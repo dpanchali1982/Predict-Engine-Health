@@ -70,7 +70,7 @@ jobs:
           git config --global user.name "dpanchali1982"
           git config --global user.email "dilipmail4u@gmail.com"
           
-          # Add only the specific files/folders that change during training
+          # Adds only the specific files/folders that change during training
           # For example: any logs, local model files, or updated READMEs
           git add . 
           
